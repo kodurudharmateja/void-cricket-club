@@ -1,6 +1,1 @@
-     "esnext"
-    ],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "strict": true,
-    "noEmit": true,
+A ecomes website void  cc bats
