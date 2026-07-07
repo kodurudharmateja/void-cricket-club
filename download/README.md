@@ -1,1 +1,6 @@
-Here are all the generated files.
+     "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
